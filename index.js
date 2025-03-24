@@ -37,3 +37,4 @@ server.listen(8080, () => {
 
 //este error es porque no tengo bien configurado valkey en el docker, debo encender docker para que me conecte y funcione; si no lo enciendo no pasara nada
 
+
